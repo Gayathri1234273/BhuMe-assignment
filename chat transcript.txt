@@ -1,0 +1,27 @@
+BHUME Assignment – Chat Transcript
+
+1. I asked ChatGPT how to complete my BHUME assignment using GitHub.
+   ChatGPT explained step-by-step how to create a repository and upload files.
+
+2. I faced difficulty understanding GitHub Desktop login and authorization.
+   ChatGPT guided me to authorize GitHub Desktop and connect my account properly.
+
+3. I asked what to do after creating a repository.
+   ChatGPT explained how to commit changes and push files to GitHub.
+
+4. I confirmed that my files were visible on GitHub.
+   ChatGPT guided me to verify the repository and submit the GitHub link.
+
+5. I asked how to create a video recording essay (5 minutes).
+   ChatGPT provided a full speech script with introduction, steps, and conclusion.
+
+6. I practiced speaking through a mock interview session with ChatGPT.
+   It helped me improve my presentation for the video submission.
+
+7. I was instructed to create a transcripts folder and README file.
+   ChatGPT guided me step-by-step to create folder structure in GitHub.
+
+8. I asked how to upload real chat transcripts.
+   ChatGPT explained how to create a text file and upload it to GitHub repository.
+
+Overall, ChatGPT helped me understand GitHub workflow, assignment submission process, and presentation preparation.
